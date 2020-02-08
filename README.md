@@ -1,7 +1,7 @@
 # Kővágó-Zöldség
 This repository is made for a website which showcases a fictional farming family.
 
-Kővágó = Prefix of village I live in.  
+Kővágó = Prefix of the village I live in.  
 Zöldség = Vegetables in hungarian.
 
 This was actually the **first** web development project of mine.
