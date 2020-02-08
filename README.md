@@ -20,8 +20,8 @@ This was the time I had an idea of making my first fictional website of somethin
 It was the summer of '19 and my family was growing vegetables in the garden so that is where the inspiration came from.
 
 I also owe a lot to Traversy Media (https://www.youtube.com/user/TechGuyWeb) who kept me very interested in the world of web development.
-This project base was one of his videos where he was teaching Bootstrap 4.
+This project's base was one of his videos where he was teaching Bootstrap 4.
 
 I think I'll always look back on this project with great pleasure years down the line in my programming career.
 
-- Vilmos Vass < 2020.02.08. >
+Vilmos Vass < 2020.02.08. >
